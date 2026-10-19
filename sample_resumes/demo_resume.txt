@@ -1,0 +1,1 @@
+Demo profile: B.Tech IT student. Skills: Python, SQL, Data Analysis, Pandas, HTML, CSS, JavaScript, Git. Projects: data dashboard and portfolio website.

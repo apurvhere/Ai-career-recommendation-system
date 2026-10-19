@@ -1,0 +1,255 @@
+[
+  {
+    "title": "Software Developer",
+    "description": "Build and maintain software applications.",
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Git",
+      "SQL"
+    ],
+    "resources": [
+      [
+        "Data Structures",
+        "VisuAlgo",
+        "https://visualgo.net/en"
+      ],
+      [
+        "Python",
+        "Python tutorial",
+        "https://docs.python.org/3/tutorial/"
+      ]
+    ]
+  },
+  {
+    "title": "Full-Stack Developer",
+    "description": "Builds both frontend interfaces and backend services.",
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Django",
+      "REST API",
+      "SQL",
+      "Git"
+    ],
+    "resources": [
+      [
+        "React",
+        "React Learn",
+        "https://react.dev/learn"
+      ],
+      [
+        "JavaScript",
+        "MDN JavaScript Guide",
+        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"
+      ]
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Turns data into insights and reports.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "Statistics",
+      "Data Analysis",
+      "Data Visualization",
+      "Power BI"
+    ],
+    "resources": [
+      [
+        "SQL",
+        "SQLBolt",
+        "https://sqlbolt.com/"
+      ],
+      [
+        "Statistics",
+        "Khan Academy Statistics",
+        "https://www.khanacademy.org/math/statistics-probability"
+      ]
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Uses statistics and machine learning to find patterns.",
+    "skills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Machine Learning",
+      "Data Analysis",
+      "Pandas",
+      "Data Visualization"
+    ],
+    "resources": [
+      [
+        "Machine Learning",
+        "Google ML Crash Course",
+        "https://developers.google.com/machine-learning/crash-course"
+      ],
+      [
+        "Pandas",
+        "Pandas getting started",
+        "https://pandas.pydata.org/docs/getting_started/index.html"
+      ]
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "Builds and deploys machine-learning systems.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "scikit-learn",
+      "SQL",
+      "Git",
+      "REST API"
+    ],
+    "resources": [
+      [
+        "scikit-learn",
+        "scikit-learn tutorials",
+        "https://scikit-learn.org/stable/tutorial/index.html"
+      ]
+    ]
+  },
+  {
+    "title": "AI Engineer",
+    "description": "Integrates AI models into products.",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "NLP",
+      "Deep Learning",
+      "REST API",
+      "Git"
+    ],
+    "resources": [
+      [
+        "NLP",
+        "Hugging Face NLP Course",
+        "https://huggingface.co/learn/nlp-course/"
+      ]
+    ]
+  },
+  {
+    "title": "Cybersecurity Analyst",
+    "description": "Investigates threats and improves security controls.",
+    "skills": [
+      "Networking",
+      "Linux",
+      "Cybersecurity",
+      "Python",
+      "SQL",
+      "Cloud"
+    ],
+    "resources": [
+      [
+        "Cybersecurity",
+        "Cisco Skills for All",
+        "https://skillsforall.com/"
+      ]
+    ]
+  },
+  {
+    "title": "Cloud Engineer",
+    "description": "Builds and maintains scalable cloud infrastructure.",
+    "skills": [
+      "Cloud",
+      "Linux",
+      "Networking",
+      "Docker",
+      "Python",
+      "Git"
+    ],
+    "resources": [
+      [
+        "Cloud",
+        "AWS Skill Builder",
+        "https://skillbuilder.aws/"
+      ]
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Automates software delivery and deployment.",
+    "skills": [
+      "Linux",
+      "Git",
+      "Docker",
+      "CI/CD",
+      "Cloud",
+      "Python"
+    ],
+    "resources": [
+      [
+        "Docker",
+        "Docker getting started",
+        "https://docs.docker.com/get-started/"
+      ]
+    ]
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "Designs usable interfaces and researches user needs.",
+    "skills": [
+      "Figma",
+      "UI Design",
+      "UX Research",
+      "Prototyping",
+      "HTML",
+      "CSS"
+    ],
+    "resources": [
+      [
+        "Figma",
+        "Figma Learn",
+        "https://help.figma.com/hc/en-us/categories/360002051613-Learn-design"
+      ]
+    ]
+  },
+  {
+    "title": "Business Analyst",
+    "description": "Connects business needs with data and requirements.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Communication",
+      "Data Analysis",
+      "Requirements Analysis",
+      "Power BI"
+    ],
+    "resources": [
+      [
+        "Excel",
+        "Microsoft Excel help",
+        "https://support.microsoft.com/excel"
+      ]
+    ]
+  },
+  {
+    "title": "Database Administrator",
+    "description": "Maintains database performance, access and recovery.",
+    "skills": [
+      "SQL",
+      "Database Design",
+      "Linux",
+      "Networking",
+      "Backup and Recovery"
+    ],
+    "resources": [
+      [
+        "SQL",
+        "SQLBolt",
+        "https://sqlbolt.com/"
+      ]
+    ]
+  }
+]
